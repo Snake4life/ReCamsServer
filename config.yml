@@ -1,0 +1,2 @@
+mqttserver: mqtt://iot.eclipse.org:1883
+mqtttopic: /adrec/models/

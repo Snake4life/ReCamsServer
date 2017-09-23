@@ -1,0 +1,21 @@
+{
+	"name": "ReCamsServer",
+	"version": "0.0.1",
+	"description": "Server for ReCams",
+	"main": "main.js"
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/fanout96/ReCamsServer.git"
+	},
+	"author": "fanout96",
+	"bugs": {
+		"url": "https://github.com/fanout96/ReCamsServer/issues"
+	},
+	"homepage": "https://github.com/fanout96/ReCamsServer",
+	"dependencies": {
+		"simple-get": "latest",
+		"MFCAuto": "ZombieAlex/MFCAuto#v3.4.6",
+		"mqtt": "latest",
+		"js-yaml": "latest"
+	}
+}
