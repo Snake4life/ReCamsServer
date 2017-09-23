@@ -3,11 +3,15 @@
  This tool for https://github.com/fanout96/ReCams
 
 ### Support Sites: ###
- - [x] MyFreeCams
- - [x] Chaturbate
+ -  MyFreeCams
+ -  Chaturbate
  
 ### Appointments: ###
- - [x] Parsing models statuses
- - [x] Publishing models statuses
- - [x] Bypass video source models
+ -  Parsing models statuses
+ -  Publishing models statuses
+ -  Bypass video source models
  
+ 
+### Use this, if you want to create you own server ###
+### Always working this servers: ###
+ - server: mqtt://iot.eclipse.org:1883 topic: /adrec/models/
