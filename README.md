@@ -11,7 +11,13 @@
  -  Publishing models statuses
  -  Bypass video source models
  
+ ### Setup ###
+
+* Install Dependencies: `apt-get install npm nodejs-legacy git`
+* Clone Repository: `git clone https://github.com/fanout96/recamsserver.git`
+* Install Nodejs Dependencies: `npm install`
+
+* To run: `node main.js`
  
-### Use this, if you want to create you own server ###
-### Always working this servers: ###
+### Use this servers or create you own: ###
  - server: mqtt://iot.eclipse.org:1883 topic: /adrec/models/
